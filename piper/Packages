@@ -42,12 +42,12 @@ Section: default
 Maintainer: Kevin Lin <packages@kevinlin.info>
 Installed-Size: 6976
 Filename: ./deb/piper_2021.01.08-23.45.26-f67ce5b9_amd64.deb
-Size: 2757326
-MD5sum: c4897540154cfc01af77bc38f2cdc5ce
-SHA1: cfc3ffeb2d28bc23cf55194326777c6450fdf323
-SHA256: 2ce0f1a27a3dd5a4b64a944ce69db0ab54fb3ce0d3af3d3a7d3bc825629209ed
-SHA512: 73d6b5f04dbf0474cc6c65c2d96e107ba9e24ef5310e61c2007de2e6135da474494ed8946f18b23cb30e135cecc0df0931d27fc4d834cdb993a01571aea40e0f
-Homepage: https://ci.internal.kevinlin.info/job/task--package/19/
+Size: 2757330
+MD5sum: ce8755ec13a85e54543037216a51935b
+SHA1: a769bbcfd5af2b2a7a3f967085bce1975f829af8
+SHA256: 8b1d20814d4a76c46f91c7811884176deb748da3070b0bdc9755e583b4793030
+SHA512: 937326d3aaec0f08ee2a20b2c4edc59155776fa62aa7eb2c697abae03f05e0713e35583bd63adf29112fc2cccf7e1d0307be695f19a17f5aab48be82dc9c5fb0
+Homepage: https://ci.internal.kevinlin.info/job/task--package/20/
 Description: Realtime log file to Kafka relay daemon
 License: unknown
 Vendor: packages.kevinlin.info

@@ -1,0 +1,36 @@
+Package: piper
+Architecture: amd64
+Version: 2021.01.08-09.04.16-fa7c6c9f
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6976
+Filename: ./deb/piper_2021.01.08-09.04.16-fa7c6c9f_amd64.deb
+Size: 2757324
+MD5sum: 266e92bc9da0b57cb0048e79ac3c6b2f
+SHA1: a25aad969c628242e0761f0c95abce0b5cfed03d
+SHA256: 9f2b0dbb4c135d0b4f4e22bd8aebe7c399074a7f29464f448ce76646295b2b9b
+SHA512: fdf6e3944c9dff72c22d03e2c38752b7de7f8f40335ed3eb7a832eac68849a8deba91619f84649b191aeb5eda5b98d6139b36bd6a60dae7cc74cd698f8c68511
+Homepage: https://ci.internal.kevinlin.info/job/task--package/16/
+Description: Piper log relay daemon
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: piper
+Architecture: amd64
+Version: 2021.01.08-23.22.15-95cb2692
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6976
+Filename: ./deb/piper_2021.01.08-23.22.15-95cb2692_amd64.deb
+Size: 2757334
+MD5sum: b1e438bb477b45d9cb0e22936a68ea68
+SHA1: cb7aac92d82f9f11430a150b002da25299fc0365
+SHA256: da0d6d724e29fca4bd8eb336cf06fc527cf8b4567613c202af1526764c3fc0bb
+SHA512: bb59b8a270029c6887f5cba77be6cba6c4c134aa7d8842078e91e62e46c4cc0c3ee0dc75007d56b908f8bb4751e454a5dffb3e8641b927be890dd8bc43f5400f
+Homepage: https://ci.internal.kevinlin.info/job/task--package/17/
+Description: Realtime log file to Kafka relay daemon
+License: unknown
+Vendor: packages.kevinlin.info
+

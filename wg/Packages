@@ -1,0 +1,36 @@
+Package: wg
+Architecture: amd64
+Version: 2021.01.09-12.51.58-be8fe286
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 4916
+Filename: ./deb/wg_2021.01.09-12.51.58-be8fe286_amd64.deb
+Size: 2032364
+MD5sum: 8dcc682a9be2906c2ddc8dcede98cdbe
+SHA1: 54189919dc412ec56ef95114b669b835f353156e
+SHA256: d156224a94c600505aeb488552fab9113fe28068012a048230ce9eb23a86af6b
+SHA512: 9b0d0fac24dc647c4be91116e8ae6e158803b421a627ca29f5adf5668785db1d73ed5e1c0af05db26ff50455cd2a6a16cf9120422853b2051cc00b3fd80b19bf
+Homepage: https://ci.internal.kevinlin.info/job/task--package/31/
+Description: webgrep CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: wg
+Architecture: amd64
+Version: 2021.01.09-12.53.51-dac3ed84
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 4916
+Filename: ./deb/wg_2021.01.09-12.53.51-dac3ed84_amd64.deb
+Size: 2032370
+MD5sum: 989c77d5cc84f678222f4fe3aa75b141
+SHA1: b0f95d68e5b1f8f809f7cc079c7dfe3b74766c22
+SHA256: 59b96fd41aee3b5c80cde49dae6f7e4915b2a61e02981b849307b5dcca12b4d0
+SHA512: 8af561346733967f4998c49b0794cd18d4d41fbc133203ffb59ca74bf1d7cffb4baf712029a0f05e756496c206e4fa2cf3428b8f6ef39c6fc27fa89d50a86d11
+Homepage: https://ci.internal.kevinlin.info/job/task--package/32/
+Description: webgrep CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

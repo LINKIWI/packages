@@ -178,3 +178,21 @@ Description: Realtime log file to Kafka relay daemon
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: piper
+Architecture: amd64
+Version: 2021.01.10-11.14.53-dac0e21e
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 9652
+Filename: ./deb/piper_2021.01.10-11.14.53-dac0e21e_amd64.deb
+Size: 3774426
+MD5sum: f791d35e0b38b2d7ec058acd5fc8af7a
+SHA1: 6f903f9fd4172bd98ad587355b47d88beb3f0287
+SHA256: f41dc26d3f411be444b8d07991a57db2168c998962b981078dddeec7c2b5ed9b
+SHA512: b968c17f819ecaf1819a773d5ab53115cca3efcfe2f6445ba02a3be0bc66fdf8d6e6c0fa8ac591b2ff2a82ea2aa82f9e302641aea99eb78b9e8116c79d334419
+Homepage: https://ci.internal.kevinlin.info/job/task--package/40/
+Description: Realtime log file to Kafka relay daemon
+License: unknown
+Vendor: packages.kevinlin.info
+

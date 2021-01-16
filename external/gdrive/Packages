@@ -1,0 +1,18 @@
+Package: gdrive
+Architecture: amd64
+Version: 2021.01.16-11.53.39-e16ffa4a
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11368
+Filename: ./deb/gdrive_2021.01.16-11.53.39-e16ffa4a_amd64.deb
+Size: 4170054
+MD5sum: 8d0f053c96158e2fb54f5be0b3364a40
+SHA1: 80662e320ef58f8820df159402df3ef99bf526a8
+SHA256: f964648682ba27a4f8e88a340cadf7887876529298aa945741d4257ab2da6762
+SHA512: fde69aff7b94682c215eb834772cddd68c2267cc9e1150e81d90bd7f6c03985a9bec4ea9798e1a37335a3c70e2301d84b6ab83ce77d147272b27b543b006cd59
+Homepage: https://ci.internal.kevinlin.info/job/task--package/54/
+Description: Google Drive CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

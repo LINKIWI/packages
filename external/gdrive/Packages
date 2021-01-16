@@ -16,3 +16,21 @@ Description: Google Drive CLI client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: gdrive
+Architecture: armhf
+Version: 2021.01.16-11.53.39-e16ffa4a
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 9472
+Filename: ./deb/gdrive_2021.01.16-11.53.39-e16ffa4a_armhf.deb
+Size: 3784580
+MD5sum: 591a6b9cb7107d131cc0622565c4384d
+SHA1: eed113fe68cb0f2b2eddf745853e43937dab8678
+SHA256: 72e6dcb275814b1a3607179f96a98b3ddb7480a7bc2f0ce37991d45ffcb5a470
+SHA512: 4c484fa6452e0173ec98e151a0419dbb34624b041e9b27cf196c541033f6e6c18b749b0bebb9ee597809d1b5d02520285190b77db89f1502ff36e075d55a1c9e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/55/
+Description: Google Drive CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

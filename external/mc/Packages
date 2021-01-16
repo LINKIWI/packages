@@ -88,3 +88,21 @@ Description: Minio CLI client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: minio-client
+Architecture: armhf
+Version: 2021.01.16-08.45.59-b7ef3ff1
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 15808
+Filename: ./deb/minio-client_2021.01.16-08.45.59-b7ef3ff1_armhf.deb
+Size: 6276710
+MD5sum: b0872bc9756eb56827ba081bf7a54e9a
+SHA1: 458abd1ba1c8738f7e779f6c76fac4542850e4f0
+SHA256: aae9784a742230dfe277efae7158283b4f3da9f97018a6ed6640d251e933de4f
+SHA512: b438f413e4d14be37eee322ddf2040f2f9ae58bc8465beceeb3f5d3a9c19331fd60123e76e65a3b988f2a29e2c7f211e8cd4b35f2e0c878364a7b8f1aa6afba1
+Homepage: https://ci.internal.kevinlin.info/job/task--package/53/
+Description: Minio CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

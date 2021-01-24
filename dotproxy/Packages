@@ -16,3 +16,21 @@ Description: High performance DNS-over-TLS proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: dotproxy
+Architecture: armhf
+Version: 2021.01.23-19.27.02-e913b11b
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5120
+Filename: ./deb/dotproxy_2021.01.23-19.27.02-e913b11b_armhf.deb
+Size: 2298104
+MD5sum: 4f252d15b2054a786f94578f8f7115d6
+SHA1: dc33ccad3fcef39c69147e7c1e5c41f622f3e1d9
+SHA256: bff77b3b7f80ed057371cbb2ffa24eea758d9f7c9d933a3e5bed395a9eb384c0
+SHA512: ac692965b1fa3ba1f047c923eb03725dea603b7d2562fd0b1979a3e98d9fb1c35fee087a0a0f7c370e9f8557098cc3b2a57001d179760c979078cd1a3729db1a
+Homepage: https://ci.internal.kevinlin.info/job/task--package/57/
+Description: High performance DNS-over-TLS proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

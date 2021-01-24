@@ -1,0 +1,18 @@
+Package: dotproxy
+Architecture: amd64
+Version: 2021.01.23-19.27.02-e913b11b
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5912
+Filename: ./deb/dotproxy_2021.01.23-19.27.02-e913b11b_amd64.deb
+Size: 2475128
+MD5sum: 352f0aaa9731aa9910b2814fdd96cd88
+SHA1: c17fc617e8cc470b69ae1458bc26d4b8d435f95b
+SHA256: 3d8f5687d8b4e6ac6bbb9245ccc7a1637dbe3f45d5f940d9910eb6ccb8ee6916
+SHA512: 2dcce6efa886acf939eb768c147bc0a3cef873f6f2dc3813516ae0221c9cd34e1b28d1aa86eb46ec588b971c97e5b63b8e159591b43316a1594f0f2e148c3593
+Homepage: https://ci.internal.kevinlin.info/job/task--package/56/
+Description: High performance DNS-over-TLS proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

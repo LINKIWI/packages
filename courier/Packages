@@ -16,3 +16,21 @@ Description: HTTP reverse proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: courier
+Architecture: armhf
+Version: 2021.01.30-22.55.25-7a172d7c
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5632
+Filename: ./deb/courier_2021.01.30-22.55.25-7a172d7c_armhf.deb
+Size: 2470544
+MD5sum: d6e2b5b51a94cf42f0749b8c9c7600fe
+SHA1: 85b2b33d868df4728320be785351eaa8e7a0deaf
+SHA256: b4e553d8eeb55073913478900acce60debb3f00160200580be0865c04deb0f7a
+SHA512: 31bfee73ebbf544efdd56ce82e94123fb860b59858f93f0703041ae493c3beeb259a754ff7fd1a5730b5c6b62b1475b7dcba9528f19325b17e6455b0713c4ca6
+Homepage: https://ci.internal.kevinlin.info/job/task--package/61/
+Description: HTTP reverse proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

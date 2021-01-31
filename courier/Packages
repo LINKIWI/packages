@@ -1,0 +1,18 @@
+Package: courier
+Architecture: amd64
+Version: 2021.01.30-22.55.25-7a172d7c
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6636
+Filename: ./deb/courier_2021.01.30-22.55.25-7a172d7c_amd64.deb
+Size: 2690134
+MD5sum: 0bcda496f282a195f498fa14799f8846
+SHA1: f038c70b96e08898638e7edc7aface6738613ece
+SHA256: 79cf96f9dc4fbf4cda352ce41aa967d6026982e81777398fb32dfd6c0c195402
+SHA512: e3abad65b408fa1f529a25289599da1e651869b9f220ee954e6de774e8a1a292deb0e00636372cbd499faa7009c793d661f031214388362351dda0c6094a2f66
+Homepage: https://ci.internal.kevinlin.info/job/task--package/60/
+Description: HTTP reverse proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

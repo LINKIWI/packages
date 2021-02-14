@@ -1,0 +1,18 @@
+Package: bitflow
+Architecture: amd64
+Version: 2021.02.13-22.08.03-d79a8b0b
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2796
+Filename: ./deb/bitflow_2021.02.13-22.08.03-d79a8b0b_amd64.deb
+Size: 1169596
+MD5sum: 5e78aababa919a43b39c424d49e03cdd
+SHA1: 02bfb68e84106efc09344d943b253ca5b5d0641f
+SHA256: 599e5a990311659f1b62d3cc445655c40bd4f0ed8e911286650c9ad818d5bd4a
+SHA512: e8fb0fce345be61cbdecaac9bb16fab2f833b02d0639e17e204969dbb1c05a7cf44ad38b428c044c26aeace415650f0c5ad8a2d0d3790543ba31f1a7c249d44f
+Homepage: https://ci.internal.kevinlin.info/job/task--package/120/
+Description: TCP proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

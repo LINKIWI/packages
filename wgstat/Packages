@@ -1,0 +1,18 @@
+Package: wgstat
+Architecture: amd64
+Version: 2021.03.05-19.16.22-3e561498
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2676
+Filename: ./deb/wgstat_2021.03.05-19.16.22-3e561498_amd64.deb
+Size: 1114490
+MD5sum: 2903380f946a077cc6724603b3c91c25
+SHA1: 374d57f0f582d4afdc3f9b6799fccf5391c0e8b9
+SHA256: 071c0c47ba7f40300fb555f4203fc9519e747821a9b9247165b5e40820ba49cb
+SHA512: 0e3185cf5dd5d3f1ffdcd349dd168bf452e12399110d65041ea4af399062514eb484dc64674fadd01e0e5e8801974fd72e09c2bccaaf981f6df2a2ffe9b54df5
+Homepage: https://ci.internal.kevinlin.info/job/task--package/183/
+Description: Wireguard stats collector
+License: unknown
+Vendor: packages.kevinlin.info
+

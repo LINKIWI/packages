@@ -52,3 +52,21 @@ Description: Wireguard stats collector
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: wgstat
+Architecture: armhf
+Version: 2021.03.05-19.32.57-e6bd98e0
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2496
+Filename: ./deb/wgstat_2021.03.05-19.32.57-e6bd98e0_armhf.deb
+Size: 1055452
+MD5sum: 6903a811457760b7fe6e64d858fcd573
+SHA1: 1fca8f87efa8055e1497bd020d1fd3630a6b1945
+SHA256: e720bccc464b1074daafb920dc1a38660f223651c20b9428eef3748864b02d2b
+SHA512: 31a3102c5c230bcc8b6f1d62fd4dc152a1414ff8ed4ec7e21c1252ed3308040e429ba72279916f4a7d41dc4b3900fa165693878a237bd311842960b5a1ec48a2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/186/
+Description: Wireguard stats collector
+License: unknown
+Vendor: packages.kevinlin.info
+

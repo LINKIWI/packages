@@ -538,3 +538,21 @@ Description: TCP proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bitflow
+Architecture: amd64
+Version: 2021.04.02-22.05.21-56451cca
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6304
+Filename: ./deb/bitflow_2021.04.02-22.05.21-56451cca_amd64.deb
+Size: 2562278
+MD5sum: 1be04d2e8081a7fd9992b1681021b56e
+SHA1: 2333194fa4ec35b7606ce33c19a216afd045e642
+SHA256: 915292ca04175dc7479a256a398b62b4498427aa9316eddeed325c80a0409253
+SHA512: 6ec608c3befdf231b246685d960d3f4857980daaa641b1acc6743155d889f58b24282b215ba1cfe28d995fa3124ba9789a6c9fc92760f26da4a82eaba82c17ba
+Homepage: https://ci.internal.kevinlin.info/job/task--package/211/
+Description: TCP proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

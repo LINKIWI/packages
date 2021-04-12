@@ -16,3 +16,21 @@ Description: A user-friendly launcher for Bazel
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bazelisk
+Architecture: amd64
+Version: 2021.04.11-22.06.01-7693035d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5160
+Filename: ./deb/bazelisk_2021.04.11-22.06.01-7693035d_amd64.deb
+Size: 2141570
+MD5sum: 5046a1ef4c4ae4b9b976936a5c8e1420
+SHA1: bfd64d4daf9e9782e77bb136073da065d59483cf
+SHA256: 1c0c13c9ed0fdeaa150071e0b2f53cfa2019cdc320eb1b964dafee3f353eacf5
+SHA512: d23e508396e2d65d266c5e6f0c5ae30dc51df095cd26be4da2650c1f92a01c04e967aa6cde06233b6a98f857239c7ba279f48f2ad207aca0f80f6fd9d30ec4bf
+Homepage: https://ci.internal.kevinlin.info/job/task--package/217/
+Description: A user-friendly launcher for Bazel
+License: unknown
+Vendor: packages.kevinlin.info
+

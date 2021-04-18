@@ -106,3 +106,21 @@ Description: Minio CLI client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: minio-client
+Architecture: amd64
+Version: 2021.04.18-12.55.27-1a025446
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 19960
+Filename: ./deb/minio-client_2021.04.18-12.55.27-1a025446_amd64.deb
+Size: 7107366
+MD5sum: 223e4d73b9c53001128de6424ad72660
+SHA1: 9158d8faa72b34a2627927a48d7d1a412ec32792
+SHA256: 8cb7497bb67b0870768abeacab29f94f74a7938e8e7f80776cb81426486a662f
+SHA512: 53dd21c05cd5e72774f634596e81527ed1cee4af3ef5a5c850fe7ca36769ee677f47124181ab986c372f76ca9660d0e6789541238ac8473cf41e529e15a8f5c1
+Homepage: https://ci.internal.kevinlin.info/job/task--package/225/
+Description: Minio CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

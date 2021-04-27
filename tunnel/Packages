@@ -34,3 +34,21 @@ Description: SOCKS5 SSH tunnel
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: socks-tunnel
+Architecture: all
+Version: 2021.04.26-23.25.19-13fb58b3
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 0
+Filename: ./deb/socks-tunnel_2021.04.26-23.25.19-13fb58b3_all.deb
+Size: 3646
+MD5sum: c9eabb5d0cc606c2142ee639c33f1ca0
+SHA1: dce9a75b147151deeb2189e8e46dd61cbbff0dde
+SHA256: 0fb7ec0160147060980050a1d9ee8e128f644b0ee92a2b4c89119a5ae395c53f
+SHA512: 803a8074068a4c8d3a743663442d9b4fa55fae661e45a18e679ae003ac95b8b9aa688ca8a8c337e2ff6429e191abb931755142f97a4e9eeca25ef815296e9915
+Homepage: https://ci.internal.kevinlin.info/job/task--package/242/
+Description: SOCKS5 SSH tunnel
+License: unknown
+Vendor: packages.kevinlin.info
+

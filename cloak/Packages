@@ -1,0 +1,18 @@
+Package: cloak
+Architecture: amd64
+Version: 2021.05.08-17.13.11-f95e3639
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2152
+Filename: ./deb/cloak_2021.05.08-17.13.11-f95e3639_amd64.deb
+Size: 915670
+MD5sum: d2a38c6efc7a2fb60fb5e92999748d32
+SHA1: 6d060b1cca5dab958b4df9f2111130b588f1a3cd
+SHA256: e948a07bb3e1fc14053c7fdbd3b04da296d95262f7b822d64d878bce00e596a8
+SHA512: 580cb07ef4dd8d71e5cacb018ffe7b82c00466cdb07509ef963027e0884643877a7dc51687f6c87b2166305f09fd278ae1e5c646c5af21b66c799fab621b6928
+Homepage: https://ci.internal.kevinlin.info/job/task--package/254/
+Description: Static site generator for Go library import paths
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -772,3 +772,21 @@ Description: TCP proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bitflow
+Architecture: armhf
+Version: 2021.05.10-22.05.53-a66c5730
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5440
+Filename: ./deb/bitflow_2021.05.10-22.05.53-a66c5730_armhf.deb
+Size: 2357596
+MD5sum: 94543a35c09c1affb8b784405f472a71
+SHA1: 9c89584dda5d96d7995e3e20847edd39a47dade6
+SHA256: 7b4d709634c73b01a8bda526d9615b364728e93ac8c6e180181ca9976b63e777
+SHA512: 9f0ade5fb47eac463609fee28c156d9edacc06622bc502a6936fb5535491f5ba21c414f900b7e2b06585521ed396894f66c6a0c20d3f8927009ccdb56d229275
+Homepage: https://ci.internal.kevinlin.info/job/task--package/261/
+Description: TCP proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -862,3 +862,39 @@ Description: TCP proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bitflow
+Architecture: amd64
+Version: 2021.05.14-20.50.29-43c193bb
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6320
+Filename: ./deb/bitflow_2021.05.14-20.50.29-43c193bb_amd64.deb
+Size: 2568834
+MD5sum: 01be96c86b36106987ca633974afcace
+SHA1: 395fd6d433d8351d5f6385f45e279ed545b1174c
+SHA256: 024038440cf669bb41f280d4a947b1a9ec0eb3291568844eb1214b5d5abe46a1
+SHA512: 72afbe800722ebb0453b1976643bf24d19547af78afe8132cf2a4133ebbc2ba483bebee7eb8caf07de9bf641f8e6bd23328a66fcb4201ad6ba37a609327f7276
+Homepage: https://ci.internal.kevinlin.info/job/task--package/269/
+Description: TCP proxy
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: bitflow
+Architecture: armhf
+Version: 2021.05.14-20.50.29-43c193bb
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5440
+Filename: ./deb/bitflow_2021.05.14-20.50.29-43c193bb_armhf.deb
+Size: 2362370
+MD5sum: 9d4ce0626029cb4ae426434383f15a5e
+SHA1: 2811bceb3d349112062039f6e6b27b368102e361
+SHA256: 4a35b195e9dc8d1af633bdd6b9fcc8e55eb6f3362dae693f1981e260e0a006d4
+SHA512: e2814a9de1e18c4d8211fd64dee2232b394faf3a22611443cb6bb8b0904c8919f1f99bbf039427e9b4d833c86e1612924b29161001128fdc26632a8341254aa7
+Homepage: https://ci.internal.kevinlin.info/job/task--package/267/
+Description: TCP proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

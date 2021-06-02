@@ -142,3 +142,21 @@ Description: Process manager for zero-downtime restarts
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: zero
+Architecture: amd64
+Version: 2021.05.31-23.56.34-2b0eeb31
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6396
+Filename: ./deb/zero_2021.05.31-23.56.34-2b0eeb31_amd64.deb
+Size: 2599116
+MD5sum: c61b3ae868f4f62b60d52ab28db4dafa
+SHA1: 8e1e0c3f9dc5ae9a2dc21e3cfb91fe2e87ea1dd3
+SHA256: 76bfc711b3c4aeadbdd58e060334434c7f325b954eecfa1c39dc4ab068da4dff
+SHA512: 8d24913a9ccbc13b5bffd544952e7f6896b12b2d5274bf8375ca166ad85dc7c16dd30250e55a3c7a5033bc34a5a3bff8ddf9fdc885e1d52a57e6547b73121250
+Homepage: https://ci.internal.kevinlin.info/job/task--package/293/
+Description: Process manager for zero-downtime restarts
+License: unknown
+Vendor: packages.kevinlin.info
+

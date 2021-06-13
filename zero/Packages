@@ -232,3 +232,21 @@ Description: Process manager for zero-downtime restarts
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: zero
+Architecture: armhf
+Version: 2021.06.12-21.23.16-3f27a636
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5504
+Filename: ./deb/zero_2021.06.12-21.23.16-3f27a636_armhf.deb
+Size: 2390126
+MD5sum: 951fc376cdde1d61babc7c8556782947
+SHA1: 746156ae2817793221ed08d4ffe3ef92a099e21b
+SHA256: 760290b88a61a38d81cd3467f92b43e37e524ef7a549088047e078da95440a6d
+SHA512: 32e1d7d253c7d310096c3bf063ffc3985503473403ac194d4cc825a7d61c53fd5cbbb26c95f374ee91052570d295d168058bbb8ae1f23c69025ee95f78cfbc40
+Homepage: https://ci.internal.kevinlin.info/job/task--package/299/
+Description: Process manager for zero-downtime restarts
+License: unknown
+Vendor: packages.kevinlin.info
+

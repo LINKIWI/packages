@@ -2410,3 +2410,21 @@ Description: HTTP service proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: courier
+Architecture: amd64
+Version: 2021.10.16-17.49.13-791f19c2
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 8184
+Filename: ./deb/courier_2021.10.16-17.49.13-791f19c2_amd64.deb
+Size: 3314580
+MD5sum: 7b36824435b6b2bfd5c0087c24fe4523
+SHA1: 060b0dfd9462ec2a0cec6c7037ad205534810fd9
+SHA256: e9a944dfb32768d8afa5d7cd4b434bc12e9310d6c821e21663dc6af5093f3b6b
+SHA512: 84478a231e8725c00e43ab7fc39e021fac7bc215b8348ce647e850fcfe541c992bbd8952b49d26b5520451112f434ddabd18c11fc38fb837c9f56485d4579e11
+Homepage: https://ci.internal.kevinlin.info/job/task--package/321/
+Description: HTTP service proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -268,3 +268,21 @@ Description: Static site generator for Git repositories
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: stagit
+Architecture: amd64
+Version: 2021.11.28-07.48.33-4a6bbd82
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 17773
+Filename: ./deb/stagit_2021.11.28-07.48.33-4a6bbd82_amd64.deb
+Size: 7540548
+MD5sum: c7f217800dc2d7a42940a7cb66545560
+SHA1: b1e4fb2d69e8da7a0f529f5ef9f8599898194bc7
+SHA256: 324265fc3591883a310193302bb44d7f33789d284a70a349def47d8182b271e3
+SHA512: 74f76d50d7939b6a69c60aae7c39251f7dd733d51136e25d204d1ae87356f8ee0278ec8529fa5925bee118f5bd662ed066917e0ee2d3f29e9073ba30a57a98f1
+Homepage: https://ci.internal.kevinlin.info/job/task--package/343/
+Description: Static site generator for Git repositories
+License: unknown
+Vendor: packages.kevinlin.info
+

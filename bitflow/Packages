@@ -1140,12 +1140,12 @@ Section: default
 Maintainer: Kevin Lin <packages@kevinlin.info>
 Installed-Size: 5760
 Filename: ./deb/bitflow_2021.12.05-11.33.01-73d0bea7_armhf.deb
-Size: 2454896
-MD5sum: b06d26eca29cf668f59170b92027ae1b
-SHA1: 1e12e7454d8b0fb4cdc387aecffe7e1c3291f20b
-SHA256: 12afd5240de8d76ca6f14a2d5db1d5cc6d568286700dacf287716dfbe6605657
-SHA512: b11bfee155d6d9f509ef5b20fc48ef4b6c9e715475175fd032ec3799af61cfd6a3f11b204defe89e617dcd885be695649b50f4e7839cdb0962b38fb409bc4ef8
-Homepage: https://ci.internal.kevinlin.info/job/task--package/352/
+Size: 2454906
+MD5sum: ab9e699baa2de2df40c3510a734f0909
+SHA1: 036a23ae26905ca1293d9ea0aa319bc269b2c564
+SHA256: b631b04147be081be6a2b097788a708aeaaa42acc705856c90579019fd8abab7
+SHA512: f59ebce068a8c3fcf36a367e1596f35fc4bbce882270a77a6cba5a368c4ec76ab83cd413f52093342d681ff9932529fbc3b32de0128acb68f14660a981b727d5
+Homepage: https://ci.internal.kevinlin.info/job/task--package/354/
 Description: TCP proxy
 License: unknown
 Vendor: packages.kevinlin.info

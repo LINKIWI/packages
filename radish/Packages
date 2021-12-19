@@ -1,0 +1,18 @@
+Package: radish
+Architecture: amd64
+Version: 2021.12.19-00.21.41-2118419b
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 50946
+Filename: ./deb/radish_2021.12.19-00.21.41-2118419b_amd64.deb
+Size: 19350072
+MD5sum: 68064e51a7544ffef86b09351f28f1e3
+SHA1: bbe61cfb7e55f81f71192bbbff34f1e38c26725c
+SHA256: d3826d7357427b7aa72b19804b7cc5679b11a729b602f579d0d0ceb43fcc7e2b
+SHA512: 8b44555f38ccdc9cae30688249c0d637902b592a7e7a0af9039a49453b52a70e0407c0282e1d0e0543567dbe38841ab7aeabec622d67363592a3276e5916cf15
+Homepage: https://ci.internal.kevinlin.info/job/task--package/369/
+Description: Node package installation manager
+License: unknown
+Vendor: packages.kevinlin.info
+

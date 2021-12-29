@@ -16,3 +16,21 @@ Description: Protocol buffer compiler
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: protobuf
+Architecture: amd64
+Version: 2021.12.28-17.24.39-002e3bd0
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 9309
+Filename: ./deb/protobuf_2021.12.28-17.24.39-002e3bd0_amd64.deb
+Size: 2051414
+MD5sum: aa0f2141954936a805084e3f068c9cd2
+SHA1: 0ea2913b6401fcc1df41a6149f30ad07b3f02e24
+SHA256: 3cfab0f7dc8d5a1fa19091014585003fa2f429e230dda8dd4325d3ab8af98e49
+SHA512: 9b598bac5cdc378a987c5b78b26e5c6fe3272b7e9e30b7a670a2fb0ed9837d5b1d9a4ba4f535ec49dff39da319e621961386727321a0d2506f1ad794aa0a9c7e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/383/
+Description: Protocol buffer compiler
+License: unknown
+Vendor: packages.kevinlin.info
+

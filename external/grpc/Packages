@@ -1,0 +1,18 @@
+Package: grpc
+Architecture: amd64
+Version: 2022.01.02-09.40.07-7510c736
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 68557
+Filename: ./deb/grpc_2022.01.02-09.40.07-7510c736_amd64.deb
+Size: 15692694
+MD5sum: 12c2a7389fb9d060f80c2ab637b95512
+SHA1: e6ddba2580269340c8b29863c8105d11aef25b0c
+SHA256: 827519f8036bd8eb28bd4536a95965526dd730ac2c512f9bca14cdc418f34bf7
+SHA512: b7cd593b9c141f801f68d010b0fd0b3accdcff0bbe3a9c47a427afdf277cc177ca2ef86f5a39c11cdb6c7662d307621c8896d5ea3a501ee0f1dbb8abb6290e16
+Homepage: https://ci.internal.kevinlin.info/job/task--package/395/
+Description: gRPC Protobuf compiler and utilities
+License: unknown
+Vendor: packages.kevinlin.info
+

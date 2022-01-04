@@ -214,3 +214,21 @@ Description: Object storage server
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: unistore
+Architecture: amd64
+Version: 2022.01.03-21.38.17-8b3a9e25
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 21204
+Filename: ./deb/unistore_2022.01.03-21.38.17-8b3a9e25_amd64.deb
+Size: 8110218
+MD5sum: a5f606f3d70884dc41a1869aac4ea972
+SHA1: 6e9a276b684ada7bd43fc000c79bdd1187247731
+SHA256: b1a416bc2cfc9a2ded1a319e395195f5a120e686c83db590767741309d266855
+SHA512: 0150c0148d73ebae2d98f663c65a345d66ca8ba5e20b05cdc9b2f2ea3e5fa7012bebe15618785f0054a60a8ae8a87e01cefcc9653cd3d487f9de52235c545152
+Homepage: https://ci.internal.kevinlin.info/job/task--package/402/
+Description: Object storage server
+License: unknown
+Vendor: packages.kevinlin.info
+

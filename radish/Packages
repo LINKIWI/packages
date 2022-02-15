@@ -124,3 +124,21 @@ Description: Node package installation manager
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: radish
+Architecture: amd64
+Version: 2022.02.14-21.19.34-93a99e90
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 61679
+Filename: ./deb/radish_2022.02.14-21.19.34-93a99e90_amd64.deb
+Size: 21956706
+MD5sum: 193045d40d026cb51a368bf67bd25068
+SHA1: 68075d942abe3db3517479db373640ea9f1bb86c
+SHA256: f5a0f12efa763d8609feeaf224129c690b89ce539bd1f10dc8bcc2e8c6409ee3
+SHA512: d063a0515206303974adefe10dd1abd874e6d04a4695b0c8fe5c5e6c62be9d69c9023e8479eb8ae8bc900fd82aea108962891196db1d04287288f8ffd80ac17e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/453/
+Description: Node package installation manager
+License: unknown
+Vendor: packages.kevinlin.info
+

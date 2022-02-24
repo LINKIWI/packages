@@ -1,0 +1,18 @@
+Package: scrcpy
+Architecture: amd64
+Version: 2022.02.23-19.44.20-fb7e7c66
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 214
+Filename: ./deb/scrcpy_2022.02.23-19.44.20-fb7e7c66_amd64.deb
+Size: 115952
+MD5sum: 5d81378a605133208ae1c90d7c63b487
+SHA1: c510a5c7c8e8238a2e2ddb3793a49d0703611e22
+SHA256: ed4573c302a2e58d8cd021cbfe3e326849e48669cefd9d27827a3f5d4d21481a
+SHA512: f974394513527ca9477e44dedb774b2ddb6c7778a7384457a617725ea89b96d9405ddcf7e63b9fc4f09c469e873aba824bb2a5bd18df6a9ddd80ad10e3f28a5b
+Homepage: https://ci.internal.kevinlin.info/job/task--package/462/
+Description: Display and control your Android device
+License: unknown
+Vendor: packages.kevinlin.info
+

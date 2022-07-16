@@ -1,0 +1,18 @@
+Package: restic
+Architecture: amd64
+Version: 2022.07.15-20.25.51-ccd33d8d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 19704
+Filename: ./deb/restic_2022.07.15-20.25.51-ccd33d8d_amd64.deb
+Size: 7507286
+MD5sum: 5faa73a42e238a7fd5718780d976b5c7
+SHA1: 187c858f2553e5f78a99d75a57d19c9db63fdd16
+SHA256: 34c3cd71609f09d080212532e6295b7c2d3cfe3be93a1c5fe7de1ee2c7c30019
+SHA512: e57bacbbfb27cb2d8b2fc06b2023dcf0d02e7bbadd45beb6248edd7d61dbfbfca51d5dc39b7b08a9858e77d162fcba9d9656861bc28822df77b556faf9b4fea7
+Homepage: https://ci.internal.kevinlin.info/job/task--package/495/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+

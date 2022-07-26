@@ -124,3 +124,21 @@ Description: TLS tunnel command line client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: t2
+Architecture: armhf
+Version: 2022.07.25-22.22.06-06b810b4
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 3584
+Filename: ./deb/t2_2022.07.25-22.22.06-06b810b4_armhf.deb
+Size: 1535916
+MD5sum: 926e1eedfd1ebae10f5159d9fe49f301
+SHA1: d8c6116c2ca8d02421eca2d8940c7f3c23ec164a
+SHA256: 82354031603a704cbb79fc668869004c78389abce8c523f6f6bb502c5bbc7828
+SHA512: 14693b06db56cee5c08d563bfc91ac89ad768d7594c630394003cf1da33b950d90e3116bde13c5fe12fcbca93d1d46299d8c93b2059b90c2264cd88f2b4d5d47
+Homepage: https://ci.internal.kevinlin.info/job/task--package/504/
+Description: TLS tunnel command line client
+License: unknown
+Vendor: packages.kevinlin.info
+

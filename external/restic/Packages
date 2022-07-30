@@ -106,3 +106,21 @@ Description: Fast, secure, efficient backup program
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: restic
+Architecture: amd64
+Version: 2022.07.30-13.04.40-a9ba485d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 20168
+Filename: ./deb/restic_2022.07.30-13.04.40-a9ba485d_amd64.deb
+Size: 7665078
+MD5sum: 749b9d6c41e38bc6b6d3b9071d3deb93
+SHA1: 80513fbad05e0369718a0cb7ee7847240ccb738b
+SHA256: cbfb208d562663747f15bd6a4d398f04e98abe92fe6c9305eaa5a0de946ccd15
+SHA512: 90f6ad21798d510529bbe1ad1239772d3aeff1884c3b766bafd4651d97a564cb415f68b47a027381b459e55742e515b796e78c769c59f22af2195a3139515f81
+Homepage: https://ci.internal.kevinlin.info/job/task--package/509/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+

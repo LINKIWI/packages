@@ -196,3 +196,21 @@ Description: webgrep CLI client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: wg
+Architecture: amd64
+Version: 2022.08.07-21.14.50-10d5230b
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 4960
+Filename: ./deb/wg_2022.08.07-21.14.50-10d5230b_amd64.deb
+Size: 2192748
+MD5sum: d32d0036f8d5f84cc7e24b30b9a6827f
+SHA1: 81e8e3289b9250abff7f4fb6bc37d547d886e91c
+SHA256: 4c401dc06c9c4407cb1ea430d2fe5a4f35b8c809dc6a907cd091dfc0d31ee01d
+SHA512: 6f532fac5ba27b4714e1789dbe7da3f658832e488f58654daee65f0e2e3b9ca73f5d73b97dc44b596c8d5b2e95b457f604689db4cc4762041c79cc0e165bfb0d
+Homepage: https://ci.internal.kevinlin.info/job/task--package/515/
+Description: webgrep CLI client
+License: unknown
+Vendor: packages.kevinlin.info
+

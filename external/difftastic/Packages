@@ -1,0 +1,18 @@
+Package: difftastic
+Architecture: amd64
+Version: 2022.09.07-21.07.17-76eeadcc
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 53046
+Filename: ./deb/difftastic_2022.09.07-21.07.17-76eeadcc_amd64.deb
+Size: 7042982
+MD5sum: d28fb24c0e6e1c4d240516dc670d4de6
+SHA1: cb531a9467ca5668043ff0c1042820bc905b4af6
+SHA256: af3e61b8e434336a0fa3e56a9cfb28c71c1d74155d2c71bad79c17fce74d1446
+SHA512: ac5283f3a713b3427abc948c746188e2efd3fd4c7ed4e49335653c6d82b62b7c9a71fe41902618fc18cdf1b4d22a46e44bd1cb895865e3a9119890b014b24df1
+Homepage: https://ci.internal.kevinlin.info/job/task--package/529/
+Description: A structural diff that understands syntax
+License: unknown
+Vendor: packages.kevinlin.info
+

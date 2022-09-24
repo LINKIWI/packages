@@ -1474,3 +1474,57 @@ Description: Object storage server
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: unistore
+Architecture: amd64
+Version: 2022.09.24-15.11.17-72f389c9
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 22760
+Filename: ./deb/unistore_2022.09.24-15.11.17-72f389c9_amd64.deb
+Size: 9000706
+MD5sum: 7199c5a6170f5521f042ac8cec0c5946
+SHA1: c4c5d148ac227986cb3c459b23326cea4483cb2d
+SHA256: c5e0844dfa676629849336c66b47e6d39a2be6dec644bb11796084f81a7bd920
+SHA512: 28360c08e5d579485ba186e8dd3f0b63f1d70331323ee97313075c03b8053cf8d8778a73739069f82825aed4d6df48808e523f7a1751b8f8f91b319ada8b8b9b
+Homepage: https://ci.internal.kevinlin.info/job/task--package/538/
+Description: Object storage server
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: unistore
+Architecture: amd64
+Version: 2022.09.24-15.33.06-e09e8430
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 22760
+Filename: ./deb/unistore_2022.09.24-15.33.06-e09e8430_amd64.deb
+Size: 9000722
+MD5sum: 42f31bf4d6e7e7876786caa078f25da7
+SHA1: 738e5d01c19054f7db97845e8685c0a9aaed5df1
+SHA256: 47513b7307eb8c42416d9d1185182958a0ce005773653e9617f62b25914e37aa
+SHA512: 7078e3632e3b04043ce542d4105afb9db56a375e854b0b6ed436e351bd06c94a5328a9b083b79d1356061194f9c9fca9a5611497326fe0fd58459a18127a1057
+Homepage: https://ci.internal.kevinlin.info/job/task--package/539/
+Description: Object storage server
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: unistore
+Architecture: amd64
+Version: 2022.09.24-16.15.37-c904183d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 22760
+Filename: ./deb/unistore_2022.09.24-16.15.37-c904183d_amd64.deb
+Size: 9000738
+MD5sum: 0ccc54590c8240c144f56b8833eeda59
+SHA1: 0bb51f24ba8c375823ad9b9848cc448420f82803
+SHA256: 16280ca4b107f941387582a4db8481309c496678ef22fd8dab0ffc39764e70bd
+SHA512: 78429a08690f5800b0a748ab7c4446cf58a314bf814e326202531abae6a15b209a0258c0e9cdc66dd9da18658434e8d8bc45ac4a17913b893c0ddc0573ae0742
+Homepage: https://ci.internal.kevinlin.info/job/task--package/540/
+Description: Object storage server
+License: unknown
+Vendor: packages.kevinlin.info
+

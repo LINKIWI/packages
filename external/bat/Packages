@@ -1,0 +1,18 @@
+Package: bat
+Architecture: amd64
+Version: 2022.09.24-16.59.07-169b2aa1
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 7858
+Filename: ./deb/bat_2022.09.24-16.59.07-169b2aa1_amd64.deb
+Size: 3436832
+MD5sum: f18d9b93650816523f69d0ef50d3a324
+SHA1: 54d36fe3307aff91652a4686734f9545b1db36c7
+SHA256: aa375b3ce989cb47eed54d0e1048bb68f961e22e2d9b61768bfdc22fcd0c2f8c
+SHA512: 343246c38fa7d2cfb3ace0db1a8c9976865323a19c102421697afd13c5b143b40072c7c2954a46dd9f2f133607d859a4edbf74bd5ef7c047e9012808c5be036e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/542/
+Description: A cat(1) clone with wings
+License: unknown
+Vendor: packages.kevinlin.info
+

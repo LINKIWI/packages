@@ -232,3 +232,21 @@ Description: Fast, secure, efficient backup program
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: restic
+Architecture: armhf
+Version: 2022.09.27-22.56.51-58dda325
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 19776
+Filename: ./deb/restic_2022.09.27-22.56.51-58dda325_armhf.deb
+Size: 7599742
+MD5sum: ae7e70afd309285083ed64a64af4c08e
+SHA1: 20612605294175311b52431f40dbd5f3aef36893
+SHA256: beae1ce5347b3aced3411ddbd9dadac7dbfdf6d0af9e13a017742aa45e1f6dc4
+SHA512: 16c9440420eae7147a85a771a331a3b64066d40b8180c0f87eba28ba77a9cddeda9daefba6c64e64f70084e6ceeb16a9d45bcf450a4064cc1ea58d8579a799d2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/553/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+

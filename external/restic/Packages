@@ -178,3 +178,57 @@ Description: Fast, secure, efficient backup program
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: restic
+Architecture: amd64
+Version: 2022.09.27-22.16.08-31578946
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 21216
+Filename: ./deb/restic_2022.09.27-22.16.08-31578946_amd64.deb
+Size: 8045222
+MD5sum: 5eea93d3e5579962e1b705f0a17c8b5d
+SHA1: a85177f1a99652bfb39cac71b19611b9bcfb525a
+SHA256: cc95a2e0957c6f3a76a1181ac9d9d6f6ed2d6f5ac491abd29dccd3d6b3ecbd37
+SHA512: febbe75929434b8a868f9f189095676d5a7c70f8664935a2976ae9f19cada93f32357491c7332bf0be14213e0715f735cc37e1c05f371cb95f5cf95d0fac0fbe
+Homepage: https://ci.internal.kevinlin.info/job/task--package/549/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: restic
+Architecture: armhf
+Version: 2022.09.27-22.16.08-31578946
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 19776
+Filename: ./deb/restic_2022.09.27-22.16.08-31578946_armhf.deb
+Size: 7599756
+MD5sum: 5d3be6a5958cb78d82134721d059cca8
+SHA1: 3dbc7ae26f60a43641a0897792831c2afc9164b1
+SHA256: 2ac2e7ccad8010710ec02f52300c87627a9ddddbf7278a9a68e0ed73268f0872
+SHA512: b9e66f0921b1cbf730e68432db7ea0d5399184aad6a0bd47bdd7257f5ba5584cae227a3d8fe170e60c8e4cc760b3910124cf9f793e7e5a80108679176cb91fd6
+Homepage: https://ci.internal.kevinlin.info/job/task--package/550/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: restic
+Architecture: amd64
+Version: 2022.09.27-22.56.51-58dda325
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 21216
+Filename: ./deb/restic_2022.09.27-22.56.51-58dda325_amd64.deb
+Size: 8045212
+MD5sum: baa5b57d5157e3dc67d8a78f06140880
+SHA1: 161272b0a23debe353e013a1b3d2e2ea0142679d
+SHA256: 1d5fb90e6c756a7d855e47bce17ec7c1853fb7830ddf6d04627ab560d3a819c8
+SHA512: fd5119261b2d0f21a7071b8ff37cd0c90f7b2694b3e73fc80f9346adf9aadf6440f43c8305b98de12c108cd5046cd6b8291309e0d67be14fd636c16dec0cfc58
+Homepage: https://ci.internal.kevinlin.info/job/task--package/552/
+Description: Fast, secure, efficient backup program
+License: unknown
+Vendor: packages.kevinlin.info
+

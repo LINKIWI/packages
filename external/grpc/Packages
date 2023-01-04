@@ -16,3 +16,21 @@ Description: gRPC Protobuf compiler and utilities
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: grpc
+Architecture: amd64
+Version: 2023.01.03-22.14.46-0d7f335e
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 28852
+Filename: ./deb/grpc_2023.01.03-22.14.46-0d7f335e_amd64.deb
+Size: 10504388
+MD5sum: 6518be817573ca128c5ea3993ace02fa
+SHA1: eb1f843987aa0b3a015635591195c8558cdc70ea
+SHA256: 7a238309eadd057ca56c0426655ec5d4327b87b0a7a66659c6cc3bf13a532ca5
+SHA512: 6177a3f71c5c626fc2c6b4936b111560d914767f788713d57b8a5da71a1ad1071e3c9f30d17a9e6f8a7a7fa923360a06df86bf07386203bf0cd03c6b055d6cde
+Homepage: https://ci.internal.kevinlin.info/job/task--package/578/
+Description: gRPC Protobuf compiler and utilities
+License: unknown
+Vendor: packages.kevinlin.info
+

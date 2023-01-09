@@ -1744,3 +1744,21 @@ Description: Object storage server
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: unistore
+Architecture: armhf
+Version: 2023.01.08-19.32.31-0f381e18
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 22400
+Filename: ./deb/unistore_2023.01.08-19.32.31-0f381e18_armhf.deb
+Size: 8797162
+MD5sum: 635675370f26631ba41fa53410224ce0
+SHA1: 7662f7ff01f81c74414801173f8859d916a26680
+SHA256: 22ad0a4e1d51ca4731a086094e7858d87cc63726691111d1e38fe488e815e06c
+SHA512: 6e5d42ac705cae7cb45cdb34b70b825ca95b685df29521c72e9cb62a4df82b3c83fad6a1088889b6c68c9fbdfc4336d02362339690f4a76f56d6a690266af87b
+Homepage: https://ci.internal.kevinlin.info/job/task--package/581/
+Description: Object storage server
+License: unknown
+Vendor: packages.kevinlin.info
+

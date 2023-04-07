@@ -3552,12 +3552,12 @@ Section: default
 Maintainer: Kevin Lin <packages@kevinlin.info>
 Installed-Size: 10688
 Filename: ./deb/courier_2023.04.06-18.12.23-5422cc2d_armhf.deb
-Size: 4335430
-MD5sum: 0158fad353e5b99b5eed562b4518abe2
-SHA1: 7819b494569a7ba88a897cb6422ea1d0b37bc97c
-SHA256: f27e0f4defe3a2a4f887d7f94ec6d55b7c10f385f3d3c3d3f5f9fd411181ef88
-SHA512: 5d10e4b2844c9148d8e4ff7786f6e89f063754ce5bec33cfb525db6dc1c3a60503ebffdd96b3ca4a0abaecc4669eceac0a6c86c048e554dc96754e4a084a5b10
-Homepage: https://ci.internal.kevinlin.info/job/task--package/588/
+Size: 4335404
+MD5sum: a3dbf016933d85280c515e2bb4a6c3e6
+SHA1: af6b2dd786a2e721b7bcc24bd904e5e2c71dd895
+SHA256: f0dfcfc6919ffc24fc2a717a166f4ba2cd2dfadc3186b4f09cb2d286dc5dc4e5
+SHA512: b4d1e96b56043d3d1d290590e327539b9b806d0d684456406154fc50b955db210a834531cbc98269101ec224476737649143471a0c17a3fb20141005425d543c
+Homepage: https://ci.internal.kevinlin.info/job/task--package/590/
 Description: HTTP service proxy
 License: unknown
 Vendor: packages.kevinlin.info

@@ -3526,3 +3526,39 @@ Description: HTTP service proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: courier
+Architecture: amd64
+Version: 2023.04.06-18.12.23-5422cc2d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11164
+Filename: ./deb/courier_2023.04.06-18.12.23-5422cc2d_amd64.deb
+Size: 4603584
+MD5sum: 394e597b6a843540b57cad96d5f1f559
+SHA1: 2837db765450e53f370320f59023966af884976b
+SHA256: f2a2e2bdefc91d5b2c0843791ad698916e14c513ee7f458564c625984a55cb9e
+SHA512: 89b2190dce26dffca131d10f46b0974d32d837c43b1ff9b921ba13cf5037fd3d94c96f889944bd9bb0a715fa9fee6f12fc594d03c611ac7ba7720ed1217d2b90
+Homepage: https://ci.internal.kevinlin.info/job/task--package/589/
+Description: HTTP service proxy
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: courier
+Architecture: armhf
+Version: 2023.04.06-18.12.23-5422cc2d
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 10688
+Filename: ./deb/courier_2023.04.06-18.12.23-5422cc2d_armhf.deb
+Size: 4335430
+MD5sum: 0158fad353e5b99b5eed562b4518abe2
+SHA1: 7819b494569a7ba88a897cb6422ea1d0b37bc97c
+SHA256: f27e0f4defe3a2a4f887d7f94ec6d55b7c10f385f3d3c3d3f5f9fd411181ef88
+SHA512: 5d10e4b2844c9148d8e4ff7786f6e89f063754ce5bec33cfb525db6dc1c3a60503ebffdd96b3ca4a0abaecc4669eceac0a6c86c048e554dc96754e4a084a5b10
+Homepage: https://ci.internal.kevinlin.info/job/task--package/588/
+Description: HTTP service proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

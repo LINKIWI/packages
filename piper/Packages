@@ -592,3 +592,21 @@ Description: Realtime log file to Kafka relay daemon
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: piper
+Architecture: armhf
+Version: 2023.04.07-19.06.05-72978b78
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11072
+Filename: ./deb/piper_2023.04.07-19.06.05-72978b78_armhf.deb
+Size: 4411918
+MD5sum: 8dc53bd16b01df0e3881588973acc04a
+SHA1: c6d97b39275d0e84102e51cc485ece7b18d400c9
+SHA256: 01d04cbc134b0fbcb8446e66b892d4b091525f5cc14458e9983500a53777f37a
+SHA512: 0054562a155958837079687659b6e7fcab24932e7c5a67cd9c030ad8cb9dfeb76638a038c8e4257ec49a6aff81b7b198609577a0478b5ea2c925b88d2587c5b2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/594/
+Description: Realtime log file to Kafka relay daemon
+License: unknown
+Vendor: packages.kevinlin.info
+

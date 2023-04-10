@@ -736,3 +736,21 @@ Description: Message bus for realtime log delivery
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: piper
+Architecture: armhf
+Version: 2023.04.10-14.40.55-643dbb42
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11264
+Filename: ./deb/piper_2023.04.10-14.40.55-643dbb42_armhf.deb
+Size: 4461062
+MD5sum: 836d59ae1475a650fe541b58135fe4a7
+SHA1: 5b7260c2eb86e388f0cb1c590de62966df9dfa63
+SHA256: 878fed2e3826aac0a43d6186f81b253ee9a918dbc92b8666a41dfc8d6f5060cb
+SHA512: 13df76530ca095fb375d45b88d6d0bed59454298017a8fcf9157e283b947c42fe0bb25b50b7f06c2afd3efcec12e5c43c4c64882213037a30806bfb3c0dc1723
+Homepage: https://ci.internal.kevinlin.info/job/task--package/602/
+Description: Message bus for realtime log delivery
+License: unknown
+Vendor: packages.kevinlin.info
+

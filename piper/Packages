@@ -826,3 +826,21 @@ Description: Message bus for realtime log delivery
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: piper
+Architecture: amd64
+Version: 2023.04.11-18.29.34-4e4ebfe4
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11776
+Filename: ./deb/piper_2023.04.11-18.29.34-4e4ebfe4_amd64.deb
+Size: 4738416
+MD5sum: bb8943bd897ce245d74550324f56707e
+SHA1: ef907fadb90e96d136f1f9de1a98888fb69511e7
+SHA256: c95b8397a58ab995f5f4c49ed416287d6da1408fdc33a6e4967bdf46a18a238e
+SHA512: f9f4eecc581761840694a944bbdcb2129433c922658247c21b52ffe17dd1bdf0da7f330a5e71dc66d4526b3c55215a096cbcb2431c17bd89caf584e90651bf12
+Homepage: https://ci.internal.kevinlin.info/job/task--package/607/
+Description: Message bus for realtime log delivery
+License: unknown
+Vendor: packages.kevinlin.info
+

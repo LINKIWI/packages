@@ -16,3 +16,21 @@ Description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and proper
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: yq
+Architecture: armhf
+Version: 2023.04.22-21.43.22-d524b8da
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 8832
+Filename: ./deb/yq_2023.04.22-21.43.22-d524b8da_armhf.deb
+Size: 3572370
+MD5sum: e1ee5bfc05437ec6ebd04ae250e10ce9
+SHA1: c1d9272f39c3b7b870e73f0e13fa5e6b8218f7a0
+SHA256: 333eb11f6bb55ae94dda7446732c94104c6a407a2cf66be9665f18d7614d71c3
+SHA512: f4437d49bec1d2b0a0076a216fddb69dd0bb3b6547cc919a76d974794fdb1979604c581ea0fed9361677c7121016fce33256039f22211eb3c6dc1636d348c21b
+Homepage: https://ci.internal.kevinlin.info/job/task--package/620/
+Description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -1,0 +1,18 @@
+Package: yq
+Architecture: amd64
+Version: 2023.04.22-21.43.22-d524b8da
+Priority: extra
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 8768
+Filename: ./deb/yq_2023.04.22-21.43.22-d524b8da_amd64.deb
+Size: 3669776
+MD5sum: 21b440a73df974b6bf01ef5d6c00ca18
+SHA1: dc1ef214c0d6092a9c745a65a748f98b12d472e5
+SHA256: c994dd9f413dda9b87cc9f32218520821a2dc0b2cc92f8b2d6c239d4ebee9b11
+SHA512: df0a390b5a1db15b2c0fd4e0dfdee1528723f7166275bcd694150106870f8a6410cc3079acd9d06aefb33e3786496ede6d5ee29fbefe637044c6324559c87fc2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/619/
+Description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+License: unknown
+Vendor: packages.kevinlin.info
+

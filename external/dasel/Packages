@@ -52,3 +52,21 @@ Description: Dasel (short for data-selector) allows you to query and modify data
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: dasel
+Architecture: armhf
+Version: 2023.05.29-13.14.40-c8852000
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 10240
+Filename: ./deb/dasel_2023.05.29-13.14.40-c8852000_armhf.deb
+Size: 3850086
+MD5sum: 9dd2524fdfa5f5ad330f08d110395c3b
+SHA1: 30a779454b8cccba3d815b4d1c47a2972b5767ce
+SHA256: 51ac2c0423aee42e1409ef0128060e4c4e802690664c9ac862557c97d04a3760
+SHA512: 086b011ef3810ada55a1cd6da30c38db246220679ad8952b2ef72d8d03bf349c2f0adc968a86ce2b5e2a5659163ae97fb7fc87aaa8b462376884686b762c3059
+Homepage: https://ci.internal.kevinlin.info/job/task--package/632/
+Description: Dasel (short for data-selector) allows you to query and modify data structures using selector strings
+License: unknown
+Vendor: packages.kevinlin.info
+

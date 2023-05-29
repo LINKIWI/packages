@@ -34,3 +34,21 @@ Description: Dasel (short for data-selector) allows you to query and modify data
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: dasel
+Architecture: amd64
+Version: 2023.05.29-13.14.40-c8852000
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 10784
+Filename: ./deb/dasel_2023.05.29-13.14.40-c8852000_amd64.deb
+Size: 4008822
+MD5sum: 30b88dc1de6750631e992699a988e774
+SHA1: 695520d4c00b954ff29ba3bd35880208cc72cee7
+SHA256: 86ceb28aa80e639061ac2703aea68658cb0231ff82665d86634c7cb6f2105098
+SHA512: bc20daf6ab7ddbb94323f97d04d638698c3d42974dd886af034dc69747cde0a46ae8f9c48364fd4924b7d5096d5f420d63df8c0cbbb7ed069e789a636e894f7b
+Homepage: https://ci.internal.kevinlin.info/job/task--package/631/
+Description: Dasel (short for data-selector) allows you to query and modify data structures using selector strings
+License: unknown
+Vendor: packages.kevinlin.info
+

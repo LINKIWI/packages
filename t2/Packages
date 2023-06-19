@@ -377,6 +377,24 @@ License: unknown
 Vendor: packages.kevinlin.info
 
 Package: t2
+Architecture: arm64
+Version: 2023.06.18-19.34.28-bdfbeec1
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 5888
+Filename: ./deb/t2_2023.06.18-19.34.28-bdfbeec1_aarch64.deb
+Size: 2305754
+MD5sum: b0efd982c1dce3447a6a64ab526d5718
+SHA1: defed1257946bb916655d8848f5106cc274833eb
+SHA256: 95d1b62dc7eee5ebbbd6e4d5e7167b8213ecbb01bf11bcced449c57ec2eed0ae
+SHA512: 0c5dd48ce0787a6fe24dfdf2e178ec0a090df43edb82e261cdc02b66f71e6b20ce11663cc966b2da783e1b379eb5e53bd28bfb397afdbf2c890c018533a35699
+Homepage: https://ci.internal.kevinlin.info/job/task--package/642/
+Description: TLS tunnel command line client
+License: unknown
+Vendor: packages.kevinlin.info
+
+Package: t2
 Architecture: amd64
 Version: 2023.06.18-19.34.28-bdfbeec1
 Priority: optional

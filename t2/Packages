@@ -322,3 +322,21 @@ Description: TLS tunnel command line client
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: t2
+Architecture: amd64
+Version: 2023.06.18-18.47.31-f790c6d6
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6044
+Filename: ./deb/t2_2023.06.18-18.47.31-f790c6d6_amd64.deb
+Size: 2503610
+MD5sum: afb2eda07f0c030db79defd6b0236fb5
+SHA1: d77816962b94acfdf75ad751729a5680443ef671
+SHA256: 457c75ef0970baf60f465ee6d6c7af3f9cd1a71cce2ab4b3d13518ad28686c40
+SHA512: 32773c0273ffff09a4acf6a72782412717f96d5b31b9a60da0db62cef2cb705c33e30f450cc3af3d6b770f1eddfca140d8b819658565d1bab012c8d6ea75a014
+Homepage: https://ci.internal.kevinlin.info/job/task--package/637/
+Description: TLS tunnel command line client
+License: unknown
+Vendor: packages.kevinlin.info
+

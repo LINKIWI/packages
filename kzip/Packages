@@ -16,3 +16,21 @@ Description: kzip archive creation and extraction tools
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: kzip
+Architecture: armhf
+Version: 2023.07.02-18.28.42-82bb0bc1
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 7680
+Filename: ./deb/kzip_2023.07.02-18.28.42-82bb0bc1_armhf.deb
+Size: 2976348
+MD5sum: ad6d18ce089630bc3ef68711a25db9c5
+SHA1: 8a5c5963e0ecb1ca2c93e8f37f4d237f5b585f12
+SHA256: 135faf35c700df7135b7478c91d08680d47b2b1506fc0eac45bea25b477689ce
+SHA512: 137243fed4ec4882e4f658c15142be19fd8088214c098c58de2a260eb9e4c718d9a1ff72c5e47194bac798e3a23341899690269c09900ca4f1c142cfda343e4e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/648/
+Description: kzip archive creation and extraction tools
+License: unknown
+Vendor: packages.kevinlin.info
+

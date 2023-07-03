@@ -1,0 +1,18 @@
+Package: kzip
+Architecture: amd64
+Version: 2023.07.02-18.28.42-82bb0bc1
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 7852
+Filename: ./deb/kzip_2023.07.02-18.28.42-82bb0bc1_amd64.deb
+Size: 3165748
+MD5sum: 87853efe14b5698463d6d0e204ca7d87
+SHA1: 1e3c3eec8a9ced9abcafc9f614c8ca4133871a9e
+SHA256: cfd5510a7de1bd1b60e3c476ab02960a25ef42454fd65635ee9a1ecf0bcaf4b5
+SHA512: 5d7d581f5ed1fdf92258059717a4e413002b71e0e28ff5f32ffc1667773bbdb7aafc7cc07fe40f99f9213c970ff1bc15cbd378631edb2b3279ce6967232f0947
+Homepage: https://ci.internal.kevinlin.info/job/task--package/647/
+Description: kzip archive creation and extraction tools
+License: unknown
+Vendor: packages.kevinlin.info
+

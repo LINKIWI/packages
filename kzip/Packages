@@ -178,3 +178,21 @@ Description: kzip archive creation and extraction tools
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: kzip
+Architecture: amd64
+Version: 2023.08.08-21.36.13-af9b2d6a
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 8404
+Filename: ./deb/kzip_2023.08.08-21.36.13-af9b2d6a_amd64.deb
+Size: 3402874
+MD5sum: fa82c78f156e0a89133553ca974d5b8f
+SHA1: 0d9d87e5dcd3dce138c86d33b842227317e7b448
+SHA256: 8c9f97f41ed02966ac4680c0351dd7014b6e396c97ae0548a242067a6aae6be9
+SHA512: 081aab77d00224edba3cb61b06669e4d96b93b4070b37971d233f5b7717e519fcfd53e729b0a517c821e002473a650c365f92a2bc9b74db13344e831c88cafb1
+Homepage: https://ci.internal.kevinlin.info/job/task--package/659/
+Description: kzip archive creation and extraction tools
+License: unknown
+Vendor: packages.kevinlin.info
+

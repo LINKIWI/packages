@@ -52,3 +52,21 @@ Description: A Bazel BUILD file formatter and editor
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bazel-build-tools
+Architecture: amd64
+Version: 2023.08.22-05.59.07-20e5b5f4
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 24626
+Filename: ./deb/bazel-build-tools_2023.08.22-05.59.07-20e5b5f4_amd64.deb
+Size: 13237796
+MD5sum: 4023af1f7e373dee5e3afe5391ffaaf1
+SHA1: 5c1230ca128a08fc77d85c92d8397f238d2fedc6
+SHA256: 5c55e7039d0665c0d466b866d484c9707e6f11cbc150337a7c518ee3b1b8b6b1
+SHA512: 881733b678316f7a9a00f8e3b84db0efff4f2cb53c97057a846864351db0dcadc457ce8e60fddc591ab5034874ef14a74e091ed8cbcf671d68449e28af2d28bc
+Homepage: https://ci.internal.kevinlin.info/job/task--package/661/
+Description: A Bazel BUILD file formatter and editor
+License: unknown
+Vendor: packages.kevinlin.info
+

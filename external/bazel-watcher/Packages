@@ -1,0 +1,18 @@
+Package: bazel-watcher
+Architecture: amd64
+Version: 2023.08.26-20.49.43-9023d5b7
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 11819
+Filename: ./deb/bazel-watcher_2023.08.26-20.49.43-9023d5b7_amd64.deb
+Size: 6381344
+MD5sum: 8ccde0aaf867d45ff5794b30dbc4ffeb
+SHA1: 73f45a38b9df7c89608e7f765fda70187f581799
+SHA256: c16a6b8dc88287ef0753552c0bddd41742c0088f7e0e946d1adafa6aa932f0a8
+SHA512: 0bacc77c66f625fa1b1791f96bf9a4108d36e08fc62f9ae0ad4f100cb9c4be049483a4169a35bf73dffc2808ac7d613d4471fe7b596a72c67c75408d330b2134
+Homepage: https://ci.internal.kevinlin.info/job/task--package/662/
+Description: Tools for building Bazel targets when source files change
+License: unknown
+Vendor: packages.kevinlin.info
+

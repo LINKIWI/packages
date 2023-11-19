@@ -34,3 +34,21 @@ Description: Display and control your Android device
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: scrcpy
+Architecture: amd64
+Version: 2023.11.18-19.27.56-e167ae85
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 276
+Filename: ./deb/scrcpy_2023.11.18-19.27.56-e167ae85_amd64.deb
+Size: 154784
+MD5sum: 0f41195f20db544ce836787feb47640c
+SHA1: cc1df885d443fdad94854ac6d0f41a9d77cd0f1c
+SHA256: 60a9768b56526fb02051d4b72f48aeff58f399efa0c6a1b9f46744a805fe415e
+SHA512: b7844945e8fe31fd09beb2d2c02e99042882f4454d1063dd9edb77a76e2fdaeefa304a47da7003db7fd48c1d8972870454a3e57d64fe93f35bf4dd2b4b8003a6
+Homepage: https://ci.internal.kevinlin.info/job/task--package/676/
+Description: Display and control your Android device
+License: unknown
+Vendor: packages.kevinlin.info
+

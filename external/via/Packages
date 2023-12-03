@@ -1,0 +1,18 @@
+Package: via
+Architecture: amd64
+Version: 2023.12.03-13.26.00-344666bc
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 94355
+Filename: ./deb/via_2023.12.03-13.26.00-344666bc_amd64.deb
+Size: 96081694
+MD5sum: 825e463cbc0ad9ba131256dcaedbd02f
+SHA1: 2e6b5dc79773a51eafe12e78e4d5cd0b5f487975
+SHA256: 4416cb2a78d390db5d9be958845e0644310317d3df6c99ff8c4e86ba8ada5570
+SHA512: 4516af1a4a0f0d3be42a7fa245564ef07238ff354a41f89787bf1ee8c062c8b906be8d20e0eca69b4f58c4f34c32625664e2f6eb768581d44025a89b73c534c6
+Homepage: https://ci.internal.kevinlin.info/job/task--package/681/
+Description: Your keyboard's best friend
+License: unknown
+Vendor: packages.kevinlin.info
+

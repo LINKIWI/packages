@@ -1,0 +1,18 @@
+Package: prism
+Architecture: amd64
+Version: 2023.12.18-17.36.29-86288c77
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 20312
+Filename: ./deb/prism_2023.12.18-17.36.29-86288c77_amd64.deb
+Size: 8172306
+MD5sum: b619b2faff3b0d912e9da9067beb33d5
+SHA1: 6fec9b173603ff94ca30a21dc7feb68c164cc8fe
+SHA256: 8d3d3d6bbbb8fa38ac841ec6c07be9214d75dd91be583294df35db8ae08f4c8b
+SHA512: 9c424e1cb05934d36ce29b00a7e8e9cce42036879679e9183252cfe47ba4bda1bc707f0adfd3bfa46aef73fa0346190b361914a858deb15ee7fa3c0828b2594f
+Homepage: https://ci.internal.kevinlin.info/job/task--package/684/
+Description: Multi-provider search service
+License: unknown
+Vendor: packages.kevinlin.info
+

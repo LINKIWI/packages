@@ -1,0 +1,18 @@
+Package: pprof
+Architecture: amd64
+Version: 2024.02.17-18.51.03-5e6f316a
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 13451
+Filename: ./deb/pprof_2024.02.17-18.51.03-5e6f316a_amd64.deb
+Size: 7566806
+MD5sum: 19214f469ac1e2a1f0e6c98bb918c113
+SHA1: ffa04f3015b8d009cba28aa4505154861769f5fb
+SHA256: 6e6a602f1cc4e675c4b24bc3d7db7f544d5cb00284beef02d2a3ec4ef502ba7f
+SHA512: 7a1ba66eceb4230dda43e0fe2017e4f565236eaebea8b91d7773ef869e6f56e9106ed80cef121b4d4dd7600bbd67309cb47d5144ffd968ec9d5e1780e5285ba2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/692/
+Description: pprof is a tool for visualization and analysis of profiling data
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -1,0 +1,18 @@
+Package: ghostty
+Architecture: amd64
+Version: 2025.01.04-19.42.32-ed250f49
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 35909
+Filename: ./deb/ghostty_2025.01.04-19.42.32-ed250f49_amd64.deb
+Size: 22580392
+MD5sum: cb5ac71a02074dbad1a243d2d7fcaa26
+SHA1: ba125caa2b3c5469f63dd9030ae5d781007fbb3d
+SHA256: 7ac402307dd24edc903cc21f772844c160c210fc6d7e9fd721eea0afb30cc98e
+SHA512: 4f80f533f665db8ef863036a3026bcc330a71aaed6bf07376db8ab36915adc4a3ef66a6a4585cba22fbbd04c45ec988cbef14d4933862f46ca88cc9f5581134a
+Homepage: https://ci.internal.kevinlin.info/job/task--package/718/
+Description: Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration
+License: unknown
+Vendor: packages.kevinlin.info
+

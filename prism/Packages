@@ -52,3 +52,21 @@ Description: Multi-provider search service
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: prism
+Architecture: amd64
+Version: 2025.01.17-22.27.39-f8a4145a
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 22580
+Filename: ./deb/prism_2025.01.17-22.27.39-f8a4145a_amd64.deb
+Size: 8986862
+MD5sum: 46d71c3c9eae5481007dc808fbb8f458
+SHA1: c79748b4e4188afd7bf29fc6fdba18a8be478f4c
+SHA256: ae9b247b5fc575e97d7dd15ab2a6c92f14b4797558b8f39027d7d58748c5f54a
+SHA512: 790f610528ec10ea4035f94e53e8ccda1bae3e81a104847701c25141a562e85fae658366db3c711770f74413c39aba1b62db6dc6cf5ce6a2b0c3bca6ad613227
+Homepage: https://ci.internal.kevinlin.info/job/task--package/720/
+Description: Multi-provider search service
+License: unknown
+Vendor: packages.kevinlin.info
+

@@ -34,3 +34,21 @@ Description: Ghostty is a fast, feature-rich, and cross-platform terminal emulat
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: ghostty
+Architecture: amd64
+Version: 2025.01.30-17.49.39-74f1bbfb
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 35894
+Filename: ./deb/ghostty_2025.01.30-17.49.39-74f1bbfb_amd64.deb
+Size: 22539354
+MD5sum: d42d745f5fa062c1fa4064ace1dc32fb
+SHA1: 0332caa96bbfd900314edad18d290cf5c23e2817
+SHA256: e4c0fc5c232691a1ba1a3d8d84853aa0deacbc8da1802e800db554fc5dbd8e41
+SHA512: d1513aec398197a79433e4ddd84e50a9592dbed7e87204364259ed7ed28410bc7ba08b6d4962d472806380e86c4495671010da230b0ab56f11e987c3e09dd760
+Homepage: https://ci.internal.kevinlin.info/job/task--package/721/
+Description: Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration
+License: unknown
+Vendor: packages.kevinlin.info
+

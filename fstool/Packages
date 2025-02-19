@@ -1,0 +1,18 @@
+Package: fstool
+Architecture: all
+Version: 2025.02.18-18.26.58-818201dc
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 1
+Filename: ./deb/fstool_2025.02.18-18.26.58-818201dc_all.deb
+Size: 3202
+MD5sum: 226869229de2fe404a0d829f5e4edb75
+SHA1: 5c56f864aba766271fc1b54fdb839ece873018bd
+SHA256: 0ec9612ef197d90cec1e0754d6634543bfa5156f50403077bc6c097c76351331
+SHA512: c52cace3fc138c1ead6ae8c97440c8df180c6ef86e7a2d9b829d5b71f2d295bc0f6b020645a8d082cd18986a3b7a80e823e688923466e8823e595da237ec7e84
+Homepage: https://ci.internal.kevinlin.info/job/task--package/725/
+Description: Filesystem tools
+License: unknown
+Vendor: packages.kevinlin.info
+

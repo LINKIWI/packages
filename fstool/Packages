@@ -16,3 +16,21 @@ Description: Filesystem tools
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: fstool
+Architecture: all
+Version: 2025.02.19-13.13.47-40d7c50b
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2
+Filename: ./deb/fstool_2025.02.19-13.13.47-40d7c50b_all.deb
+Size: 3552
+MD5sum: 5d1fb385cf15e2dbb404af8202ea2663
+SHA1: e73245274bb7984751a56f6471633d8af052bf28
+SHA256: 40abe8de9792abd8c9707802c7989b83a4fc55601333087314d402f4758091f5
+SHA512: dcf0fb39c81963fc0f8b6a534a3a542239ef93da427c0c8a485af29282fe4731af6abff2c161dc8e1c8eb1770254787998f7ad852b035f77bcef56897ffe0a95
+Homepage: https://ci.internal.kevinlin.info/job/task--package/726/
+Description: Filesystem tools
+License: unknown
+Vendor: packages.kevinlin.info
+

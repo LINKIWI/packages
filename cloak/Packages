@@ -88,3 +88,21 @@ Description: Static site generator for Go library import paths
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: cloak
+Architecture: amd64
+Version: 2025.12.25-13.44.24-182e70b3
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 2944
+Filename: ./deb/cloak_2025.12.25-13.44.24-182e70b3_amd64.deb
+Size: 1318584
+MD5sum: 1460f0b79ea1de8197c2567f8867bfe5
+SHA1: 1a416799df08d5fc2fa976c52a10e2e17bf94b05
+SHA256: e4a9450670c6fb1e64e19f4cdb7ca4b27e2cf64132484aded151dba642925d6f
+SHA512: 7ca2ae6724736c5ad768dcb561fedb79cdb65c72cc5344dd94f364485976b2b762cb5ec2e64d47da65d4d34e3f24d9165ab83cb42690da7cb9e21e7322aa807e
+Homepage: https://ci.internal.kevinlin.info/job/task--package/731/
+Description: Static site generator for Go library import paths
+License: unknown
+Vendor: packages.kevinlin.info
+

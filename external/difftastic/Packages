@@ -16,3 +16,21 @@ Description: A structural diff that understands syntax
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: difftastic
+Architecture: amd64
+Version: 2026.09.20-17.22.10-d54bef66
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 115735
+Filename: ./deb/difftastic_2026.09.20-17.22.10-d54bef66_amd64.deb
+Size: 11842322
+MD5sum: 7b4ce3828aeda9b1f41adafcd3057f68
+SHA1: c719176c68b3958f74f4208454928b84b888cedb
+SHA256: 1fa4f249d57d33f2ac8036639158c2e3031faac5e18898a264f5c61459065cae
+SHA512: aa39ebcc04a418bff6b06dd9446ef01d07206a685cf12607dcfc09ba11689e777e769cec6c96a593d50733b0417589bfe7d1f61f068e050d06ecd42233bc4640
+Homepage: https://ci.internal.kevinlin.info/job/task--package/736/
+Description: A structural diff that understands syntax
+License: unknown
+Vendor: packages.kevinlin.info
+

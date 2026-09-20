@@ -4012,3 +4012,21 @@ Description: HTTP service proxy
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: courier
+Architecture: armhf
+Version: 2026.09.20-14.02.14-6226b637
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 14720
+Filename: ./deb/courier_2026.09.20-14.02.14-6226b637_armhf.deb
+Size: 5775774
+MD5sum: 40c1a765e66c1b370ca64927ae80d28e
+SHA1: 8c4a0e16c91c5b7c678d2126915deaae2dd8ec5f
+SHA256: e3e6089d976cd8f69bb8305c3202493ae7c76832ffd2380bedd30ecb59588312
+SHA512: 543d17f35a5458f9b88ddcb63f15c39b473c8d0a96691d35bfd0a00dd7329825d43b4a03d1e482891bb921e6eea604a7676350141b4289673ce598467c67a522
+Homepage: https://ci.internal.kevinlin.info/job/task--package/733/
+Description: HTTP service proxy
+License: unknown
+Vendor: packages.kevinlin.info
+

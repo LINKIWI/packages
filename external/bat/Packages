@@ -52,3 +52,21 @@ Description: A cat(1) clone with wings
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bat
+Architecture: amd64
+Version: 2026.09.23-12.45.42-a1d9ca63
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 8475
+Filename: ./deb/bat_2026.09.23-12.45.42-a1d9ca63_amd64.deb
+Size: 4305886
+MD5sum: f1e8750cda6d68019e246182c9672729
+SHA1: 819232961ccc5d27b17f210a6f41ab826aed323e
+SHA256: b1c6c3bc03844d41f9db259cc5d4db09677c0c01ac22b40b3438d211ade88c5d
+SHA512: f0811316269ce83e5cff2733af122af9d8169a07f033ef3a89dd133d9f6cbd1454ecd2b24766fef87f14135d57cc129d6c7789f911ff23e63d50e1f2cef16128
+Homepage: https://ci.internal.kevinlin.info/job/task--package/742/
+Description: A cat(1) clone with wings
+License: unknown
+Vendor: packages.kevinlin.info
+

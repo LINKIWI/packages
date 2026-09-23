@@ -70,3 +70,21 @@ Description: A cat(1) clone with wings
 License: unknown
 Vendor: packages.kevinlin.info
 
+Package: bat
+Architecture: armhf
+Version: 2026.09.23-12.45.42-a1d9ca63
+Priority: optional
+Section: default
+Maintainer: Kevin Lin <packages@kevinlin.info>
+Installed-Size: 6806
+Filename: ./deb/bat_2026.09.23-12.45.42-a1d9ca63_armhf.deb
+Size: 3917210
+MD5sum: b0ef58be8e6481ef6cc840013a159625
+SHA1: dbe4d124fb2075846c6057a965733a182b3dc49d
+SHA256: 67485db237b8fb0ef686459b5d6151d053078dbeb2059f684c64bfc81fda48b1
+SHA512: 687e1e3a705494300ce146acc1eaf5d41aeaf65f47ed83f9a2b6261358e353badc1ff427886478f0af50af77e8ddce18c892ffda3754aef206ea2c26126ce2f2
+Homepage: https://ci.internal.kevinlin.info/job/task--package/743/
+Description: A cat(1) clone with wings
+License: unknown
+Vendor: packages.kevinlin.info
+
